@@ -14,6 +14,7 @@ Puis dans votre navigateur : ouvrez une nouvelle fenêtre et cmd + O pour ouvrir
 
 Soyez gentils <3 <3 
 
+---------------------------------------------------------------
 
 [EN]
 
@@ -36,7 +37,7 @@ Here you can use  "cmd + maj + /" (mac) to comment the JS files you don't want t
 See the magic.
 Be nice, I did my best.
 
-If you don't have a mac, I'm very sorry, I don't know the other commands.
+If you don't have a mac, I'm very sorry, I don't know the commands on other computers.
 
 
 
