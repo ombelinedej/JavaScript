@@ -22,7 +22,7 @@ Soyez gentils <3 <3
 $ git clone https://github.com/ombelinedej/JavaScript
 
 *open file
-$ Sublime Javascript (or other command if you are not using SUblime Text)
+$ Sublime Javascript (or other command if you are not using Sublime Text)
 
 *open index.html
 Here you can use  "cmd + maj + /" (mac) to comment the JS files you don't want to show and only keep the file you want
