@@ -36,25 +36,8 @@ console.log("");
 
 
 console.log("Quel est livre le plus emprunté ?");
-// var array = []
-//  for(let index in books) {
 
-// console.log (books[index].rented)  = n
-
-// array = [n]
-
-
-// let number = books[index].rented
-
-// console.log(Math.max(number))
-
-
-// }
-
-
-
-console.log(books.sort(function(a,b){return ('' + a.rented).localeCompare(b.rented)}))
-
+console.log(books.sort(function(a,b){return b.rented- a.rented}) )
 
 
 
@@ -64,7 +47,7 @@ console.log("");
 console.log("Quel est le livre le moins emprunté ?");
 
 
-console.log(books.sort(function(a,b){return ('' + a.rented).localeCompare(b.rented)}))
+console.log(books.sort(function(a,b){return a.rented- b.rented}) )
 
 console.log("");
 
